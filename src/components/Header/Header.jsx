@@ -65,8 +65,9 @@ const Header = () => {
               to="plans"
               span={true}
               smooth="true"
-            ></Link>
-            Plans
+            >
+              Plans
+            </Link>
           </li>
           <li>
             <Link to="testimonials" span={true} smooth={true}>
